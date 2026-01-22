@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: 7981 immortalwrt-mt798x Builder
+name: padavanonly/immortalwrt-mt798x-6.6 Builder
 
 on:
   repository_dispatch:
